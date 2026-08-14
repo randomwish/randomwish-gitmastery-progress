@@ -79,5 +79,15 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786691183.60782,
+    "completed_at": 1786691186.37636,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
