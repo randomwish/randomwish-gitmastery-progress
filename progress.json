@@ -1,0 +1,47 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1786685283.564385,
+    "completed_at": 1786685284.764025,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1786686231.713225,
+    "completed_at": 1786686232.908725,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786684905.272253,
+    "completed_at": 1786684907.9481,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1786684934.165081,
+    "completed_at": 1786684935.352449,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1786685366.333478,
+    "completed_at": 1786685367.549811,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  }
+]
